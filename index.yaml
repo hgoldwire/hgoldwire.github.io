@@ -3,6 +3,16 @@ entries:
   cheeses:
   - apiVersion: v2
     appVersion: cheddar
+    created: "2021-11-14T12:44:13.263892876Z"
+    description: A Helm chart for Kubernetes
+    digest: 13e8eb47eeb14992fdf445d3cf49eb446d52e07747655a40b63a57687b12d6d7
+    name: cheeses
+    type: application
+    urls:
+    - https://github.com/hgoldwire/hgoldwire.github.io/releases/download/cheeses-0.2.7/cheeses-0.2.7.tgz
+    version: 0.2.7
+  - apiVersion: v2
+    appVersion: cheddar
     created: "2021-11-14T12:41:11.118063129Z"
     description: A Helm chart for Kubernetes
     digest: 5e4100a34fbf5bcfb737d28d8eaecf97ac04bd1aae26863605101ddf28c8a502
@@ -92,4 +102,4 @@ entries:
     urls:
     - https://github.com/hgoldwire/hgoldwire.github.io/releases/download/gabschart-20.0.3/gabschart-20.0.3.tgz
     version: 20.0.3
-generated: "2021-11-14T12:41:11.11810813Z"
+generated: "2021-11-14T12:44:13.26416079Z"
