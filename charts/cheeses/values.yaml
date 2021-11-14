@@ -5,7 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: andygrunwald/simple-webserver
+  # repository: andygrunwald/simple-webserver
+  repository: errm/cheese:cheddar
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
